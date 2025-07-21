@@ -1,0 +1,40 @@
+FHI DEV 
+
+['death_pill'] = {
+    ['name'] = 'death_pill',
+    ['label'] = '💀 Death Pill',
+    ['weight'] = 0,
+    ['type'] = 'item',
+    ['image'] = 'pill.png',
+    ['unique'] = true,
+    ['useable'] = true,
+    ['shouldClose'] = true,
+    ['description'] = 'حبة تنهي حياتك وتتركك جثة!'
+},
+
+['monkey_pill'] = {
+    ['name'] = 'monkey_pill',
+    ['label'] = '🐒 Monkey Pill',
+    ['weight'] = 0,
+    ['type'] = 'item',
+    ['image'] = 'monkeypill.png',
+    ['unique'] = true,
+    ['useable'] = true,
+    ['shouldClose'] = true,
+    ['description'] = 'تحوّلك إلى قرد لمدة دقيقة!'
+},
+
+['speed_pill'] = {
+    ['name'] = 'speed_pill',
+    ['label'] = '⚡ Speed Pill',
+    ['weight'] = 0,
+    ['type'] = 'item',
+    ['image'] = 'speed_pill.png',
+    ['unique'] = true,
+    ['useable'] = true,
+    ['shouldClose'] = true,
+    ['description'] = 'تزيد سرعتك بشكل مؤقت!'
+},
+
+
+تم الصنع من متجر ابتكار 
